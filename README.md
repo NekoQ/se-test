@@ -13,6 +13,7 @@ First version of this extension contains goToSpec and runSpec only for specs loc
 
 ## TODO
 - [ ] Fix go to spec
+- [ ] Fix run spec when running from a spec
 - [ ] Go back to file from spec
 - [ ] Implement go to feature spec
 - [ ] Offer to create file if not existing
